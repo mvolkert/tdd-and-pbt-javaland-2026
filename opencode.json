@@ -1,0 +1,9 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "instructions": [
+    ".opencode/rules/tdd.md",
+    ".opencode/rules/pbt.md",
+    ".opencode/rules/human-in-the-loop.md",
+    ".opencode/rules/tdd_with_java_and_junit.md"
+  ]
+}
